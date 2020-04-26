@@ -1,0 +1,37 @@
+
+#xfce4
+#xfce4-whiskermenu-plugin
+#xfce4-pulseaudio-plugin
+#xfce4-power-manager-plugins
+#xfce4-goodies
+
+
+mousepad
+
+
+rofi
+
+## [style theme]
+numix-gtk-theme
+numix-icon-theme
+gnome-icon-theme
+breeze-cursor-theme
+xfwm4-theme-breeze
+matcha-theme
+
+
+
+## [im]
+im-config
+fcitx
+fcitx-chewing
+fcitx-frontend-all
+fcitx-frontend-gtk2
+fcitx-frontend-gtk3
+fcitx-frontend-qt4
+fcitx-frontend-qt5
+fcitx-config-gtk
+fcitx-ui-classic
+fcitx-module-dbus
+
+
